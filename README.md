@@ -1,4 +1,5 @@
-# ImGuiHotKey, works with newer version of imgui   
+# ChatGPT generated ImGui::SelectHotKey, works with newer version of imgui   
+
 
 ```
 Usage:  
