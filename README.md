@@ -14,7 +14,6 @@ struct ImHotkeyState
 namespace ImGui
 {
     void SelectHotKey(const char* label, ImHotkeyState* state);
-    void StyleColorsDarkRed();
 }
 
 void ImGui::SelectHotKey(const char* label, ImHotkeyState* state)
